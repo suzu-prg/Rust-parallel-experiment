@@ -1,0 +1,12 @@
+/Users/suzu/project_research_B/mandelbrot/target/debug/deps/num_bigint-987ca4abdb6d886f.rmeta: /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/Users/suzu/project_research_B/mandelbrot/target/debug/deps/libnum_bigint-987ca4abdb6d886f.rlib: /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/Users/suzu/project_research_B/mandelbrot/target/debug/deps/num_bigint-987ca4abdb6d886f.d: /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs:
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs:
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs:
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs:
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs:
+/Users/suzu/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs:

@@ -1,0 +1,2 @@
+pub mod par_arithmetic_progression;
+pub mod seq_arithmetic_progression;
